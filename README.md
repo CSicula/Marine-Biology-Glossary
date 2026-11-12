@@ -4,7 +4,7 @@
 
 This is a glossary with a bunch of definitions from our course, I will update it throughout the year (hopefully). 
 
-
+Click on the file above this one called 'MBio Glossary' to see the main file.
 
 If you have any suggestions or corrections please message me on discord/WhatsApp (I think there's a comment function on GitHub too?)
 
