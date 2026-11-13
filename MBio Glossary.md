@@ -50,11 +50,13 @@
 
 
 * \[p]
-* EMB30 - A plant mutant used to work out cell fates in the protoderm.
-* FASS - A plant mutant used to work out cell fates in the protoderm.
+* EMB30 - a plant mutant involved with cell cleavage in plant zygotes.
+* FASS - a plant mutant involved with cell cleavage in plant zygotes.
 * GI - A phytohormone in the photoperiodic pathway that results in flowering.
 * LFY - A phytohormone in the hormone pathway that results in flowering.
 * ROS - Relative Oxygen Species; an important second messenger in plants, initial cytotoxic as it breaks disulphide bonds.
 * SOC1 - A phytohormone in the hormone pathway that results in flowering.
 * 
+
+
 
