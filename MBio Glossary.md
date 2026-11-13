@@ -9,19 +9,27 @@
 
 
 * \[p]
+* ABC model / ABCDE model - Models for the gene expression in the whorls of structures within flowers.
 * Apical meristem - Source of new growth in plants, divided into the Shoot apical meristem (SAM) and Root apical meristem (RAM).
+* Autonomous (flowering pathway) - When flowering is triggered without stimulus, after a long period without flowering.
 * Auxin - A phytohormone with a variety of functions including phototropism and controlling root/shoot branching. Antagonistic to Cytokinin.
 * Brassinosteroids - Phytohormones responsible for a variety of functions including seed germination and stress tolerance.
 * Casparian strip - A structure in the endodermis composed of lignin, restricts the flow of water in the apoplast pathway (through cell walls).
 * Cell fate - The determination of what kind of cells undifferentiated or stem cells will differentiate into.
+* CO - Constants; A transcription factor in the photoperiodic pathway that ensures FT production is stimulated only when daylight hours are long enough (summer).
 * Columella - The outermost layer at the base of the RAM allowing easier passage through soil.
 * Cortex - The main region of tissues in plant roots, providing structure and standard metabolic processes
 * Cytokinin - A phytohormone with a variety of functions including stem cell maintenance and controlling root/shoot branching. Antagonistic to Auxin.
 * E/C initial - A group of specialised meristem cells in the RAM responsible for differentiating into the cortex and endodermis as the root grows.
 * Endodermis - A region of tissue in the root responsible for regulating the movement of molecules in/out of the vascular system. Contains the Casparian strip.
+* FLC - A phytohormone that inhibits FT, therefore preventing the growth of flowers.
+* Florigen (FT) - A phytohormone in the hormone pathway that results in flowering by inducing meristem tissue to switch from a vegetative to reproductive identity.
 * Gibberellin - Phytohormone responsible for a variety of functions including growth, flowering and fruit development.
 * Gravitropism - The growth of a plant with respect to gravity i.e. the upward growth of shoots and downward growth of roots.
+* Homeotic - A biological process mediated by hormones/homeostasis.
 * Lateral root cap - An outer layer of the sides of the RAM, assists with passage through the soil.
+* MADS box genes - A group term of transcription factors that includes any homeotic genes in plants, responsible for functions such as development and flowering.
+* Photoperiodic 0 A flowering pathway that initiates flowering in a circadian rhythm with respect to day length.
 * Phototropism - The growth of a plant with respect to the direction of light.
 * Phyllotaxis - Optimisation in growing e.g. plants growing wide leaves to maximise sunlight exposure.
 * Phytohormones - Proteins in plants acting as chemical messengers.
@@ -34,15 +42,19 @@
 * Strigolactones - Phytohormones responsible for attracting symbiotic mycorrhizal fungi.
 * Totipotency - How (plants?) deal with physical damage and stress.
 * Transcription factors - Proteins responsible for switching on and off genes.
-* \[p]
 
 
 
 ##### Cell biology - less important specifics
 
+
+
 * \[p]
-* EMB30 - a plant mutant used to work out cell fates in the protoderm.
-* FASS - a plant mutant used to work out cell fates in the protoderm.
+* EMB30 - A plant mutant used to work out cell fates in the protoderm.
+* FASS - A plant mutant used to work out cell fates in the protoderm.
+* GI - A phytohormone in the photoperiodic pathway that results in flowering.
+* LFY - A phytohormone in the hormone pathway that results in flowering.
 * ROS - Relative Oxygen Species; an important second messenger in plants, initial cytotoxic as it breaks disulphide bonds.
-* \[p]
+* SOC1 - A phytohormone in the hormone pathway that results in flowering.
+* 
 
